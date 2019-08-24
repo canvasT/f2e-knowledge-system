@@ -3,3 +3,7 @@
 - [张鑫旭的博客](https://www.zhangxinxu.com/)
 - [PostCSS 是个什么鬼东西？](https://segmentfault.com/a/1190000003909268)
 - [彻底搞懂word-break、word-wrap、white-space](https://juejin.im/post/5b8905456fb9a01a105966b4)
+- [CSS Naming Conventions that Will Save You Hours of Debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
+- [CSS 奇技淫巧，在这里，都有](https://github.com/chokcoco/iCSS)
+- [Rem布局的原理解析](https://zhuanlan.zhihu.com/p/30413803?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [谈谈像素以及微信小程序的 rpx](http://huang-jerryc.com/2017/05/21/talk-about-pixel-and-rpx/index.html)
