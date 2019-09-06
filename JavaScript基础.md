@@ -9,3 +9,4 @@
 - [import、require、export、module.exports 混合使用详解](https://segmentfault.com/a/1190000012386576)
 - [很全很全的JavaScript的模块讲解](https://segmentfault.com/a/1190000012464333)
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+- [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
